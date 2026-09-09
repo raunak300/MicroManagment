@@ -21,3 +21,6 @@ const checkEmployeeId=(empId)=>{
     const empIdRegex=/^[A-Z]{4}\d{4}$/
     return empIdRegex.test(empId);
 }
+
+
+module.exports= {checkName,checkEmail,checkPassword,checkEmployeeId}
