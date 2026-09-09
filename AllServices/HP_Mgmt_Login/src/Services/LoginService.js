@@ -12,6 +12,9 @@ const LoginService=(email, password)=>{
         }
 
         const user= findUserByEmail(email);
+        if(!user){
+            throw new ZenoException(`${process.env.LoginService.USER_NOT_FOUND}`);
+        }
 
 
     }catch(error){
