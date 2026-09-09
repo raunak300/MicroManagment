@@ -1,0 +1,8 @@
+Expected information given by employee to 
+1) hospital
+2) company
+
+Name
+Employee_Id
+Company_Email
+Password
