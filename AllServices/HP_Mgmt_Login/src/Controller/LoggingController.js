@@ -7,7 +7,8 @@ dotenv.config();
 
 const loginUser = (req,res,next)=>{
     try{
-        LoginService();
+        const {userEmail,password}= req.body;
+        LoginService(userEmail,password);
         res.status(200).json({message:`${process.env.LoginService.LOGIN_SUCCESS}`})
     }
     catch(error){
