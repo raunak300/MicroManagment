@@ -1,0 +1,5 @@
+{"level":"error","timestamp":"2026-09-10T05:49:45.165Z"}
+{"level":"error","message":"Internal server error: Cannot destructure property 'userEmail' of 'req.body' as it is undefined.","timestamp":"2026-09-10T05:51:34.496Z"}
+{"level":"error","timestamp":"2026-09-10T05:51:34.496Z"}
+{"level":"error","message":"Internal server error: json.stringify is not a function","timestamp":"2026-09-10T06:02:25.491Z"}
+{"level":"error","timestamp":"2026-09-10T06:02:25.491Z"}

@@ -1,7 +1,7 @@
 const winston= require('winston');
 const path= require('path');
-const combinedPath= path.join(__dirname,'../../information/LoggingResources/combinedPath.log');
-const errorPath= path.join(__dirname,'../../information/LoggingResources/Error.log');
+const combinedPath= path.join(__dirname,'../../Information/LoggingResources/combinedPath.log');
+const errorPath= path.join(__dirname,'../../Information/LoggingResources/Error.log');
 
 
 const logger=  winston.createLogger({

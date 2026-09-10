@@ -4,3 +4,33 @@
 {"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-09T10:51:56.676Z"}
 {"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-09T12:51:39.876Z"}
 {"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-09T12:51:39.936Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T05:23:40.353Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T05:23:40.393Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T05:23:40.396Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T05:26:04.498Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T05:26:04.539Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T05:26:04.541Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T05:38:06.159Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T05:39:51.024Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T05:39:51.062Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T05:39:51.064Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T05:41:09.474Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T05:41:09.511Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T05:41:09.514Z"}
+{"level":"error","timestamp":"2026-09-10T05:49:45.165Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T05:51:28.229Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T05:51:28.271Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T05:51:28.273Z"}
+{"level":"error","message":"Internal server error: Cannot destructure property 'userEmail' of 'req.body' as it is undefined.","timestamp":"2026-09-10T05:51:34.496Z"}
+{"level":"error","timestamp":"2026-09-10T05:51:34.496Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T05:53:46.732Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T05:53:46.770Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T05:53:46.773Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T06:02:19.721Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T06:02:19.760Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T06:02:19.762Z"}
+{"level":"error","message":"Internal server error: json.stringify is not a function","timestamp":"2026-09-10T06:02:25.491Z"}
+{"level":"error","timestamp":"2026-09-10T06:02:25.491Z"}
+{"level":"info","message":"Server Attempting to Start","timestamp":"2026-09-10T06:03:20.338Z"}
+{"level":"info","message":"Database Connected Successfully","timestamp":"2026-09-10T06:03:20.376Z"}
+{"level":"info","message":"Server is running on Port: 3000","timestamp":"2026-09-10T06:03:20.378Z"}
